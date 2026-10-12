@@ -4,6 +4,11 @@ A cartridge-style workbench for driving the [REA](https://github.com/morluto/rea
 MCP server against game artifacts. All 170 tools, browsable and runnable, with an optional AI
 assistant that explains the output.
 
+![REA//ARCADE — the cartridge grid with capability-family colours, and the argument inspector for trace_dylib_resolution](docs/ui.png)
+
+Every tool is a cartridge whose top strip carries its REA capability-family colour, so you can see
+at a glance whether something needs a phone on ADB, a native decompiler, or nothing at all.
+
 ```
 rea-arcade/
 ├── server/
