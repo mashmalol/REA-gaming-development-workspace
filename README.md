@@ -90,4 +90,4 @@ provider is configured:
 export GHIDRA_INSTALL_DIR=/path/to/ghidra
 npx -y rea-agents@6.4.0 setup
 npx -y rea-agents@6.4.0 doctor --provider ghidra --json
-```
+```# REA-gaming-development-workspace
